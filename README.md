@@ -5,12 +5,12 @@ A lightweight Node.js + React client that lets you securely log in to [minabibli
 ## ✨ Features
 - Login with library card or personal number + PIN  
 - Fetches and displays your borrowed books  
-- Works with both React Web and React Native  
-- Uses a small Express proxy to handle authentication safely  
+- Works with both React Web  
+- Uses a small proxy to handle authentication safely  
 
 ## ⚙️ Tech Stack
-- **Backend:** Node.js, Express, Axios, Tough-Cookie, Cheerio  
-- **Frontend:** React (or React Native)  
+- **Backend:** Node.js
+- **Frontend:** React
 - **Language:** JavaScript / ES Modules  
 
 ## 🚀 Getting Started
